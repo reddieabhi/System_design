@@ -44,3 +44,15 @@ So when we create a new Monkey or Cat object, we pass which behavior we want the
 ```java
 Monkey m1 = new Monkey(new FastWalkingBehaviour());
 Cat c1 = new Cat(new SlowWalkingBehaviour(), new FastSpeakingBehaviour());
+
+
+
+
+**Happy coding** 
+
+### Feel free to connect with me. Iam open for suggestions and improvements. I am more than happy for any technical discussions.
+
+## 📩 Let's Catch Up
+📧 **Email:** abhinayreddyb.309@gmail.com  
+👔 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/abhinay-reddy-bellamkonda-927553191/)
+
