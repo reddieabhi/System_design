@@ -19,23 +19,23 @@ Singleton class can be implemented in multiple ways based on the requirement. Fe
 
 ### 1. Basic Singleton (Not thread safe)
 Instance is created only once, but not thread safe.
-Here is example of [`Singleton.java`](./Creational/Singleton/Singleton.java)
+Here is example of [`Singleton.java`](./Singleton.java)
 
 ### 2. Synchronized Singleton (Thread safe)
 Adds synchronized to get instance method making the method thread safe. 
-Here is the example of [`SingletonSynchronized.java`](./Creational/Singleton/SingletonSynchronized.java)
+Here is the example of [`SingletonSynchronized.java`](./SingletonSynchronized.java)
 
 ### 3. Eager Initialization
 Instance is created at class loading time. This creates the instance at the time of build hence may not be the suitable one
-Here is the example of SingletonEager [`SingletonEager`](/Creational/Singleton/SingletonEager.java)
+Here is the example of SingletonEager [`SingletonEager`](./SingletonEager.java)
 
 ### 4. Double Checked Login
 Has 2 checks making it thread safe and entire method is not synchronized. Only if block is. 
-Here is the example of SingletonEager [`SingletonDoubleCheck`](/Creational/Singleton/SingletonDoubleCheck.java)
+Here is the example of SingletonEager [`SingletonDoubleCheck`](./SingletonDoubleCheck.java)
 
 ### 5. enum Singleton
 The most efficient thread safe and also handles serialization. This is widely used. 
-Here is the example of SingletonEager [`SingletonEnum`](/Creational/Singleton/SingletonEnum.java)
+Here is the example of SingletonEager [`SingletonEnum`](./SingletonEnum.java)
 
 
 
