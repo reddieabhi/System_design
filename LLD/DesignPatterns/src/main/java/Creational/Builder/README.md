@@ -11,10 +11,7 @@ Hence we use builder helper class which handles all the validations and make it 
 - To make the attributes immutable we make the attributes of class as private. But the problem with making them private is they are not accessible fro builder class also. Hence we have to make builder class a sub class (inside class) of actual class
 
 
-- Here is the example for Hashmap builder[StudentHashMapBuilder.java](./src/main/java/Creational/Builder/StudentHashMapBuilder.java)
+Here is the example for Hashmap builder [StudentHashMapBuilder.java](./StudentHashMapBuilder.java)
 
-This is less recommended 
-
-- Here is the example for Builder class [Student.java](./src/main/java/Creational/Builder/Student.java)
-
+Here is the example for Builder class [Student.java](./Student.java)
 
