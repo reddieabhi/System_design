@@ -13,12 +13,17 @@ Design Patterns are broadly categorized into 3 types,
 
 Here we are learning only few important design patterns mostly used by me in my daily coding. They are
 ## 1. Creation Design Patterns
-   1. **Singleton** (In this pattern object of any class to be initialized only once. Ex : DB connection, logger etc)
-   2. **Builder** (Here we use a helper class for building the main class, when there are too many attributes and there are few mandatory attributes constrains )
-   3. **Factory**
-   4. **Abstract Factory**
-   5. **Prototype**
+Creational design patterns deal about object creation and usage efficiently. They abstract the implementations and make it more user-friendly. Below are few import creational design patterns 
+   1. **Singleton** (In this pattern object of any class to be initialized only once and used for entire project. Ex : DB connection, logger etc) [Singleton](./src/main/java/Creational/Singleton/README.md)
+   2. **Builder** (Used when a class has many optional or mandatory attributes. A separate builder class helps constructing the object with mandatory and optional fields ) [Builder](./src/main/java/Creational/Builder/README.md)
+   3. **Factory** (Provides an interface for creating objects, allowing subclasses to decide which class to be used. ) [Factory](./src/main/java/Creational/Factory/README.md)
+   4. **Abstract Factory** (A factory of factory. Used when there is a selection of Factory from available factories and class from the selected factory )
+   5. **Prototype** (Object creation is computational expensive, then we clone a base object for that class and change the required fields.) [Prototype](./src/main/java/Creational/Prototype/README.md)
 ## 2. Structural Design Patterns
+
+Structural design patterns aim in using classes with complexity, when multiple classes are being used we follow a structural format to keep the code clean and extensible. Here are few important structural design patterns.
+   1. **Adapter Design Pattern** 
+   2. **Bridge Design Pattern** 
 ## 3. Behavioral Design Patterns
 
 

@@ -25,7 +25,8 @@ Prototype is a creational design pattern that allows you creating a deep copy of
 
 
 
-**Happy coding**
+**Happy Learning**
+
 
 ### Feel free to connect with me. Iam open for suggestions and improvements. I am more than happy for any technical discussions.
 
