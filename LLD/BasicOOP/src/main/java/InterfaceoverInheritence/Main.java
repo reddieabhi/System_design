@@ -1,4 +1,4 @@
-package org.lld.InterfaceoverInheritence;
+package InterfaceoverInheritence;
 
 public class Main {
     public static void main(String[] args){

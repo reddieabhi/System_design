@@ -18,3 +18,10 @@ There are 4 important methods of enum
 
 Here is the example of EnumWeek [Enum Week](./EnumWeek.java)
 
+
+### Custom Enum
+
+You can also create custom Enums 
+1. For each constant of enum, we can have optional values as well
+2. Refer this example for its usage [Custom Enum](./CustomStatusEnum.java)
+3. 

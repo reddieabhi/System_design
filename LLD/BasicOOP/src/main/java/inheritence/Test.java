@@ -1,4 +1,4 @@
-package org.lld.inheritence;
+package inheritence;
 
 public class Test {
     // Normal Usage

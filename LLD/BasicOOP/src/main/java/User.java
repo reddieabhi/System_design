@@ -1,4 +1,4 @@
-package org.lld;
+package lld;
 
 // This package tell us about providing access to only selected data
 

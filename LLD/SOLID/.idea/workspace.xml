@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63c85234-557f-47d6-923b-e7cab87ee568" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Practice/src/main/java/org/lld/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/main/java/org/lld/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/main/java/org/lld/ParkingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/main/java/org/lld/Slot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/main/java/org/lld/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/Controller/Concatinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/Repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/splitwise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/splitwise/MySplitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/splitwise/Owes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/splitwise/OwesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/splitwise/SplitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/splitwise/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prac/src/main/java/org/lld/splitwise/VerifyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/SystemDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/SystemDesign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/AbstractCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/AbstractCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/DieselCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/DieselCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/InterfaceCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/InterfaceCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/PetrolCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/PetrolCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/Abstraction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/FastSpeakingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/FastSpeakingBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/FastWalkingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/FastWalkingBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Monkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Monkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/SlowSpeakingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/SlowSpeakingBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Speakable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Speakable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/SpeakingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/SpeakingBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Walkable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/Walkable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/WalkingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/InterfaceoverInheritence/WalkingBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/inheritence/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/inheritence/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/inheritence/Monkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/inheritence/Monkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicOOP/src/main/java/inheritence/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicOOP/src/main/java/inheritence/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zl0ciJAINPnq4jRbHKUv5jhcqd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63c85234-557f-47d6-923b-e7cab87ee568" name="Changes" comment="" />
+      <created>1752290433699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752290433699</updated>
+    </task>
+    <servers />
+  </component>
+</project>

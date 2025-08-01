@@ -1,4 +1,4 @@
-package org.lld.InterfaceoverInheritence;
+package InterfaceoverInheritence;
 
 public interface WalkingBehaviour {
 

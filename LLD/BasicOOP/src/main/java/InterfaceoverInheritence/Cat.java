@@ -1,4 +1,4 @@
-package org.lld.InterfaceoverInheritence;
+package InterfaceoverInheritence;
 
 public class Cat extends Animal implements Walkable,Speakable{
     WalkingBehaviour walkingBehaviour;

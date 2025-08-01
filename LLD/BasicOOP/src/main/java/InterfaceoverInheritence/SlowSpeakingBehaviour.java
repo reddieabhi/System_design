@@ -1,4 +1,4 @@
-package org.lld.InterfaceoverInheritence;
+package InterfaceoverInheritence;
 
 public class SlowSpeakingBehaviour implements SpeakingBehaviour{
 

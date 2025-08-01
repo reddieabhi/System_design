@@ -1,4 +1,4 @@
-package org.lld.inheritence;
+package inheritence;
 
 public class Animal {
     private String name;

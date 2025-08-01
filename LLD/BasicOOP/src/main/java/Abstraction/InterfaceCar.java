@@ -1,4 +1,6 @@
-package main.java.Abstraction;
+package Abstraction;
 
 public interface InterfaceCar {
+    void start();
+    void sound();
 }
